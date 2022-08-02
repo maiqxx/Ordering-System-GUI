@@ -1,11 +1,5 @@
 
 /**
- * JAM's JAVA CAFE ORDERING SYSTEM
- * SYSTEM PROJECT IN PROGRAMMING
- * @author Jamaica P. Cavalida BSIT I-1B
- */
-
-/**
  * This is the Payment() class where the customer/user
  * can input their cash to be calculated and to
  * display the balance/change.
@@ -57,7 +51,7 @@ public class Payment extends javax.swing.JFrame implements ActionListener{
         
         txtAreaHeader.setText(
                 "\t" + "JAM's JAVA CAFE" + "\n\n" +
-                "Address: Samboan, Cebu, Philippines" + "\n" +
+                "Address: Cebu, Philippines" + "\n" +
                 "Email: jamsJavaCafe@gmail.com" + "\n" +
                 "Time: " + (dtf.format(now))
                 );

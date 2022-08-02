@@ -1,11 +1,5 @@
 
 
-/** 
- * JAM's JAVA CAFE ORDERING SYSTEM
- * SYSTEM PROJECT IN PROGRAMMING
- * @author Jamaica P. Cavalida
- */
-
 /**
  * This is the Welcome class and the first class to run
  * to trigger the following classes and closes itself

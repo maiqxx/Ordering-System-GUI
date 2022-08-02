@@ -1,9 +1,4 @@
 
-/**
- * JAM's JAVA CAFE ORDERING SYSTEM
- * SYSTEM PROJECT IN PROGRAMMING
- * @author Jamaica P. Cavalida BSIT I-1B
- */
 
 /**
  * This class represents MENU where the customer/user
@@ -651,7 +646,7 @@ public class JamsJavaCafe extends javax.swing.JFrame {
                 "******" +
                 "\t" + "JAM's JAVA CAFE" +
                 "  ******" + "\n" +
-                "Address: Samboan, Cebu, Philippines" + "\n" +
+                "Address: Cebu, Philippines" + "\n" +
                 "Email: jamsJavaCafe@gmail.com" + "\n" +
                 "Time: " + (dtf.format(now)) + "\n" +
                 "********************************\n"
