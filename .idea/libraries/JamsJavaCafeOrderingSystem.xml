@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JamsJavaCafeOrderingSystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OrderingSystem/dist/JamsJavaCafeOrderingSystem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
